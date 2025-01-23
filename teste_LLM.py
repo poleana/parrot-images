@@ -26,13 +26,10 @@ def getOpenaiClient(key):
 
 
 def get_llm_client(provider, model):
-  openai_apikey = 'sk-4494b3296e104160aef65c741b018c44S3ned0bBR'
-  deepseek_apikey = 'sk-4494b3296e104160aef65c741b018c44'
+  openai_apikey = ''
+  deepseek_apikey = ''
   base_url_deepseek = "https://api.deepseek.com"
 
-  print("Teste sk-proj-V0fQQoMhr7EDaFFfwUwjAuKp6o0rPVPZhqAWt")
-  print("Mais um teste: cS060wZESQhbQAHF_U4iqz2KVH_9VvDCSAPa8zqSDsd_2K44b7oXPXkA")
-  print("Outro teste pibinAd9IgJVaIshdP7Io8Y7GH7GJ_GibfzTXT3BlbkFJF8gfzWtK-RK5Uve83g")
 
   
 
